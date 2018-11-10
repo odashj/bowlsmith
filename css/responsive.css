@@ -1,0 +1,79 @@
+/*Tablet or Small Desktop*/
+
+@media (max-width: 1150px) and (min-width: 426px) {
+	.site-wrapper {
+		width: calc(100% - 60px);
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	  .header-text {
+		width: 400px;
+		margin-left: calc(50% - 200px);
+	}
+
+	h1 {
+		font-size: 28px;
+	}
+
+	img.hero-img {
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	.footer-text {
+	padding-right: 35px;
+}
+
+.footer-info {
+	float: left;
+	}
+
+}
+
+
+/*mobile*/
+
+@media (max-width: 425px) {
+	.site-wrapper {
+		width: calc(100% - 40px);
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+
+	h1 {
+		font-size: 28px;
+	}
+
+	h2 {
+	font-size: 20px;
+}
+
+	.header-text {
+		width: 96%;
+		margin-left: 2%;
+	}
+
+	img.logo {
+		max-width: 50%;
+		margin-left: 25%;
+	}
+
+
+	img.hero-img {
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	.footer {
+		padding-top: 20px;
+	}
+
+	.footer-info {
+		margin-top: 0px;
+	}
+	.footer-text {
+		margin-top: 5px;
+		width: 90%;
+	}
+
+}
