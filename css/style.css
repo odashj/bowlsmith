@@ -9,24 +9,23 @@ body {
 }
 
 .site-wrapper {
-  width: calc(100% - 120px);
-  padding-left: 60px;
-  padding-right: 60px;
   padding-top: 30px;
 }
 
 /*typography*/
 h1 {
-  font-size: 36px;
+  font-size: 54px;
+  line-height: 66px;
   font-family: "Josefin Sans", sans-serif;
   font-weight: 300;
   text-align: center;
 }
 
 h2 {
-  font-size: 24px;
-  font-family: "Chivo", sans-serif;
-  font-weight: 700;
+  font-size: 28px;
+  line-height: 36px;
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 400;
   text-align: left;
 }
 
@@ -35,14 +34,16 @@ h3 {
   text-transform: uppercase;
   font-weight: 400;
   font-family: "Chivo", sans-serif;
-  font-size: 16px;
+  font-size: 18px;
+  line-height: 25px;
   letter-spacing: 0.07em;
 }
 
 p {
-  font-size: 16px;
-  line-height: 26px;
+  font-size: 18px;
+  line-height: 32px;
   font-family: "Chivo", sans-serif;
+  font-weight: 300;
   text-align: left;
 }
 
@@ -59,8 +60,6 @@ img.hero-img {
 }
 
 .header-text {
-  width: 500px;
-  margin-left: calc(50% - 250px);
   padding-top: 10px;
   padding-bottom: 10px;
 }
