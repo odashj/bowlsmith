@@ -1,9 +1,28 @@
 @import 'colors';
 
+.black{
+	color: $black;
+}
+
+.lightTan {
+	color: $lightTan
+}
+
+.darkBrown {
+	color: $darkBrown
+}
+
+.lightBrown {
+	color: $lightBrown;
+}
+
+.offWhite {
+	color: $offWhite;
+}
 
 html {
 	font-family: 'Chivo', sans-serif;
-	color: $darkBrown;
+	color: $black;
 	font-weight: 400;
 }
 
@@ -40,14 +59,13 @@ h3 {
 	letter-spacing: .07em;
 }
 
-h3 a {
-	color: $darkBrown;
-	text-decoration: none;
-}
 
-h3 a:hover {
-	color: $darkBrown;
-	text-decoration: underline;
+h4 {
+	font-size: 22px;
+	line-height: 34px;
+	font-family: 'Chivo', sans-serif;
+	font-weight: 300;
+	text-align: left;
 }
 
 p {
@@ -60,6 +78,20 @@ p {
 
 .nav {
 	z-index: 100;
+}
+
+.nav-link {
+	color: $darkBrown;
+}
+
+.nav-link a {
+	color: $darkBrown;
+	text-decoration: none;
+}
+
+.nav-link a:hover {
+	color: $darkBrown;
+	text-decoration: underline;
 }
 
 .logo-large{
@@ -87,9 +119,7 @@ img.logo-small {
 }
 
 img.hero-img {
-	width: 80%;
 	height: auto;
-	margin-left: 10%;
 }
 
 .headline {
