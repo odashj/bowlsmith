@@ -28,42 +28,4 @@
 	<title>Bowlsmith | Handcrafted Bowls made in Portland, OR</title>
 
 </head>
-
-<body style="overflow-x: hidden;">
-
-
-<div class="container site-wrapper">
-	<div class="header-section">
-		<img src="assets/logo.png" class="logo">
-		<div class="header-text">
-		<h1>Handcrafted bowls made in Portland, Oregon.</h1>
-	</div>
-		<img src="assets/photo-grid.png" class="hero-img">
-	</div>
-
-	<div class="footer">
-		<h2 class="footer-text">Jesse Smith,
-		<br>craftsman</h2>
-		
-		<div class="footer-info">
-			<p class="footer-text">503.708.4916 
-		<br>jesse@bowlsmith.com</p>
-		<p class="footer-text">2753 SW Sherwood Drive 
-		<br>Portland, Oregon 9720</p>
-		
-		
-
-		<p class="footer-text">Copyright ©2018 Jesse Smith,
-		<br>All Rights Reserved.</p>	
-	</div>
-	</div>
-</div>
-
-
-</body>
-
-</html>
-
-<script>
-
-</script>
+<body>

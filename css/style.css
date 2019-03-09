@@ -8,10 +8,6 @@ body {
   background-color: #FFF3E0;
 }
 
-.site-wrapper {
-  padding-top: 30px;
-}
-
 /*typography*/
 h1 {
   font-size: 54px;
@@ -34,17 +30,49 @@ h3 {
   text-transform: uppercase;
   font-weight: 400;
   font-family: "Chivo", sans-serif;
-  font-size: 18px;
-  line-height: 25px;
+  font-size: 16px;
+  line-height: 23px;
   letter-spacing: 0.07em;
 }
 
+h3 a {
+  color: #641F01;
+  text-decoration: none;
+}
+
+h3 a:hover {
+  color: #641F01;
+  text-decoration: underline;
+}
+
 p {
-  font-size: 18px;
-  line-height: 32px;
+  font-size: 16px;
+  line-height: 30px;
   font-family: "Chivo", sans-serif;
   font-weight: 300;
   text-align: left;
+}
+
+.nav {
+  z-index: 100;
+}
+
+.logo-large {
+  width: 75%;
+  margin-top: 5px;
+}
+
+img.logo-large {
+  height: auto;
+}
+
+.logo-small {
+  width: 25%;
+  margin-top: 5px;
+}
+
+img.logo-small {
+  height: auto;
 }
 
 .hero-img {
@@ -59,38 +87,22 @@ img.hero-img {
   margin-left: 10%;
 }
 
-.header-text {
-  padding-top: 10px;
-  padding-bottom: 10px;
-}
-
-.logo {
-  width: 100%;
-}
-
-img.logo {
-  max-width: 220px;
-  height: auto;
-  margin-left: calc(50% - 110px);
+.headline {
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
 .footer {
   border-top: 3px solid #641F01;
-  padding-top: 10px;
-  margin-top: 25px;
+  padding-top: 30px;
+  margin-top: 30px;
   height: 115px;
   bottom: 0;
-  padding-bottom: 10px;
+  padding-bottom: 25px;
 }
 
 .footer-text {
-  float: left;
-  padding-right: 70px;
-}
-
-.footer-info {
-  float: right;
-  margin-top: 10px;
+  padding-top: 10px;
 }
 
 /*# sourceMappingURL=style.css.map */
