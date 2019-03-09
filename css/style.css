@@ -1,100 +1,97 @@
-
 html {
-	font-family: 'Chivo', sans-serif;
-	color: #641F01;
-	font-weight: 400;
+  font-family: "Chivo", sans-serif;
+  color: #641F01;
+  font-weight: 400;
 }
 
 body {
-	background-color: #FFF3E0;
+  background-color: #FFF3E0;
 }
 
 .site-wrapper {
-	width: calc(100% - 120px);
-	padding-left: 60px;
-	padding-right: 60px;
-	padding-top: 30px;
+  width: calc(100% - 120px);
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-top: 30px;
 }
 
 /*typography*/
-
 h1 {
-	font-size: 36px;
-	font-family: 'Josefin Sans', sans-serif;
-	text-align: center;
-
+  font-size: 36px;
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 300;
+  text-align: center;
 }
 
 h2 {
-	font-size: 24px;
-	font-family: 'Chivo', sans-serif;
-	font-weight: 700;
-	text-align: left;
+  font-size: 24px;
+  font-family: "Chivo", sans-serif;
+  font-weight: 700;
+  text-align: left;
 }
 
 h3 {
-	text-align: center;
-	text-transform: uppercase;
-	font-weight: 400;
-	font-family: 'Chivo', sans-serif;
-	font-size: 16px;
-	letter-spacing: .07em;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: "Chivo", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.07em;
 }
 
 p {
-	font-size: 16px;
-	line-height: 26px;
-	font-family: 'Chivo', sans-serif;
-	text-align: left;
+  font-size: 16px;
+  line-height: 26px;
+  font-family: "Chivo", sans-serif;
+  text-align: left;
 }
 
 .hero-img {
-	width: 100%;
-	padding-top: 15px;
-	padding-bottom: 15px;
+  width: 100%;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
 img.hero-img {
-	width: 80%;
-	height: auto;
-	margin-left: 10%;
+  width: 80%;
+  height: auto;
+  margin-left: 10%;
 }
 
 .header-text {
-	width: 500px;
-	margin-left: calc(50% - 250px);
-	padding-top: 10px;
-	padding-bottom: 10px;
+  width: 500px;
+  margin-left: calc(50% - 250px);
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
-.logo{
-	width: 100%;
+.logo {
+  width: 100%;
 }
 
 img.logo {
-	max-width: 220px;
-	height: auto;
-	margin-left: calc(50% - 110px);
+  max-width: 220px;
+  height: auto;
+  margin-left: calc(50% - 110px);
 }
 
 .footer {
-	border-top: 3px solid #641F01;
-	padding-top: 10px;
-	margin-top: 25px;
-	height: 115px;
-	bottom: 0;
-	padding-bottom: 10px;
+  border-top: 3px solid #641F01;
+  padding-top: 10px;
+  margin-top: 25px;
+  height: 115px;
+  bottom: 0;
+  padding-bottom: 10px;
 }
 
 .footer-text {
-	float: left;
-	padding-right: 70px;
+  float: left;
+  padding-right: 70px;
 }
 
 .footer-info {
-	float: right;
-	margin-top: 10px;
-	}
+  float: right;
+  margin-top: 10px;
+}
 
-
-
+/*# sourceMappingURL=style.css.map */
