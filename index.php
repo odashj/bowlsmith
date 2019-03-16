@@ -1,14 +1,13 @@
 
 <?php
+$current_page = 'home';
 include "header.php";
-?>
-<?php
 include "nav-index.php";
 ?>
 
 
 
-<div class="container">
+<div class="container content">
 	<div class="eight columns offset-by-two">
 		<div class="headline">
 			<h1 class="darkBrown">Handcrafted bowls made in Portland, Oregon.</h1>
@@ -22,6 +21,10 @@ include "nav-index.php";
 
 <?php
 include "footer.php";
+?>
+
+<?php
+include "fader.php";
 ?>
 <script>
 

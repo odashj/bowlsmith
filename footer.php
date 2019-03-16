@@ -1,4 +1,4 @@
-<div class="container">
+<div class="container content">
 	<div class="twelve columns">
 		<div class="footer">
 			<h2 class="three columns darkBrown">Jesse Smith,<br>craftsman
@@ -9,7 +9,7 @@
 			<p class="footer-text three columns">2753 SW Sherwood Drive 
 				<br>Portland, Oregon 9720
 			</p>
-			<p class="footer-text three columns">Copyright ©2018 Jesse Smith,
+			<p class="footer-text three columns">Copyright ©2019 Jesse Smith,
 				<br>All Rights Reserved.
 			</p>	
 		</div>

@@ -1,12 +1,11 @@
 
 <?php
+$current_page = 'profile';
 include "header.php";
-?>
-<?php
 include "nav.php";
 ?>
 
-<div class="container">
+<div class="container content">
 	<div class="eight columns offset-by-two">
 		<div class="headline">
 			<h1 class="darkBrown">Behind the Bowls</h1>
@@ -25,4 +24,8 @@ include "nav.php";
 
 <?php
 include "footer.php";
+?>
+
+<?php
+include "fader.php";
 ?>

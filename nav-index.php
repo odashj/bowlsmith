@@ -6,7 +6,7 @@
 		<h3 class="nav-link"><a href="gallery.php">Gallery</a></h3>
 	</div>
 	<div class="four columns">
-		<h3><a href="index.php"><img class="logo-large" src="assets/logo-large_desktop@2x.png"></a></h3>
+		<h3><a href="index.php"><img class="logo-large content" src="assets/logo-large_desktop@2x.png"></a></h3>
 	</div>
 	<div class="two columns">
 		<h3 class="nav-link"><a href="events.php">Events</a></h3>

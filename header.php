@@ -11,7 +11,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale = 1.0, maximum-scale=1.0, user-scalable=no" />
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 	<script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script> 
-
+	<script src="contact_form.js"></script>
 	<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
 	<link href="assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
 	
