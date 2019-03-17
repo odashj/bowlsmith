@@ -26,21 +26,5 @@ $(document).ready(function() {
   }
 });
 
-// Fade out logo if you go to index
-
-$(document).ready(function() {
-
-  $('a.index').click(function() {
-    event.preventDefault();
-
-    newLocation = this.href;
-    $('.logo-small').fadeOut(700, newPage);
-
-  });
-
-  function newPage() {
-    window.location = newLocation;
-  }
-});
 
  </script>

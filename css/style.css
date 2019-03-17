@@ -6,7 +6,6 @@ html {
   -moz-font-smoothing: antialiased;
   -o-font-smoothing: antialiased;
   font-smoothing: antialiased;
-  text-rendering: optimizeLegibility;
 }
 
 body {
@@ -31,6 +30,10 @@ button, input[type=submit], input[type=reset] {
   font: inherit;
   cursor: pointer;
   outline: inherit;
+}
+
+.wrapper {
+  padding-top: 120px;
 }
 
 .content {
@@ -145,11 +148,16 @@ strong {
 /*End typography*/
 /*Repeating nav bar*/
 .nav {
-  z-index: 100;
+  position: fixed;
+  width: 100vw;
+  height: 90px;
+  z-index: 200;
+  background-color: #FFF3E0;
 }
 
 .nav-link {
   color: #641F01;
+  margin-top: 30px;
 }
 
 .nav-link a {
@@ -166,23 +174,24 @@ strong {
   font-weight: 700 !important;
 }
 
-.logo-large {
-  width: 75%;
-  margin-top: 5px;
-  background-color: #FFF3E0;
+.logo-lg {
+  width: 230px;
+  margin-left: calc(50% - 115px);
+  margin-top: 15px;
 }
 
-img.logo-large {
+.logo-sm {
+  width: 100px;
+  margin-left: calc(50% - 50px);
+  margin-top: 25px;
+}
+
+img.nav-logo {
   height: auto;
 }
 
-.logo-small {
-  width: 25%;
-  margin-top: 5px;
-}
-
-img.logo-small {
-  height: auto;
+#small-logo {
+  display: none;
 }
 
 /*End nav bar styles*/
@@ -311,122 +320,5 @@ img.large {
 }
 
 /*End light box styling*/
-/*Contact page styling*/
-.form {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-}
-
-#contact input[type=text],
-#contact input[type=email],
-#contact input[type=tel],
-#contact input[type=url],
-#contact textarea {
-  font: 300 16px/30px "Chivo", Helvetica, Arial, sans-serif;
-}
-
-#contact button[type=submit] {
-  text-align: center;
-  text-transform: uppercase;
-  font-weight: 400;
-  font-family: "Chivo", Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  line-height: 23px;
-  letter-spacing: 0.07em;
-}
-
-fieldset {
-  margin-bottom: 20px;
-}
-
-.full-width {
-  max-width: 100%;
-  width: 100%;
-}
-
-.half-width {
-  width: calc(50% - 10px);
-}
-
-.first-child {
-  margin-right: 5px;
-  float: left;
-}
-
-.last-child {
-  margin-left: 5px;
-  float: right;
-}
-
-#contact input[type=text],
-#contact input[type=email],
-#contact input[type=tel],
-#contact input[type=url],
-#contact textarea {
-  width: calc(100% - 20px);
-  border: none;
-  background: #FFF;
-  margin: 0;
-  padding: 10px;
-}
-
-#contact textarea {
-  height: 100px;
-  max-width: 100%;
-  resize: none;
-}
-
-#contact button[type=submit] {
-  cursor: pointer;
-  width: 100%;
-  border: none;
-  background: #B97A5F;
-  color: #FFF;
-  margin: 0;
-  padding: 10px;
-  font-size: 15px;
-}
-
-#contact button[type=submit]:hover {
-  background: #641F01;
-  -webkit-transition: background 0.3s ease-in-out;
-  -moz-transition: background 0.3s ease-in-out;
-  transition: background-color 0.3s ease-in-out;
-}
-
-#contact button[type=submit]:active {
-  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.5);
-}
-
-.send-button {
-  width: 40%;
-}
-
-#contact input:focus,
-#contact textarea:focus {
-  outline: 0;
-  border: 1px solid #CFBEA5;
-}
-
-::-webkit-input-placeholder {
-  color: #220A00;
-}
-
-:-moz-placeholder {
-  color: #220A00;
-}
-
-::-moz-placeholder {
-  color: #220A00;
-}
-
-:-ms-input-placeholder {
-  color: #220A00;
-}
-
-/*End contact page styling*/
 
 /*# sourceMappingURL=style.css.map */
