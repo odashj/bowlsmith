@@ -13,7 +13,7 @@ include "nav.php";
 			</div>
 		</div>
 		<div class="ten columns offset-by-one">
-			<img src="assets/profile-photo@2x.png" class="hero-img">
+			<img src="assets/profile-photo.jpg" class="hero-img">
 		</div>
 		<div class="eight columns offset-by-two">
 			<div class="bio">
