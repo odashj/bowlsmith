@@ -1,0 +1,87 @@
+#jcf * {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font: 300 16px/30px "Chivo", Helvetica, Arial, sans-serif;
+}
+
+#jcf {
+  max-width: 100%;
+}
+
+#jcf .error {
+  background-color: rgba(255, 184, 185, 0.8) !important;
+  border: solid 1px #D8000C !important;
+}
+
+#jcf .error, #jcf .error::placeholder {
+  color: #D8000C !important;
+}
+
+#jcf .success {
+  background-color: rgba(193, 255, 198, 0.8) !important;
+  border: solid 1px #044406 !important;
+}
+
+#jcf .success, #jcf .success::placeholder {
+  color: #044406;
+}
+
+#jcf .msg {
+  display: none;
+  padding: 10px;
+  margin-bottom: 5px !important;
+  width: 99%;
+  border-radius: 3px;
+}
+
+#jcf .contact_message {
+  height: 200px;
+}
+
+#jcf #send_message {
+  text-transform: uppercase;
+  cursor: pointer;
+  width: 100%;
+  border: none;
+  color: #fff;
+  margin: 0;
+  padding: 10px;
+  font-size: 15px;
+  font-weight: 400;
+  background-color: #B97A5F;
+  -webkit-transition: background 0.3s ease-in-out;
+  -moz-transition: background 0.3s ease-in-out;
+  transition: background-color 0.3s ease-in-out;
+}
+
+#jcf #send_message:hover {
+  background-color: #641F01;
+}
+
+#jcf button object {
+  margin: -18px -5px !important;
+  width: 50px !important;
+}
+
+#jcf select, #jcf input, #jcf textarea, #jcf button {
+  outline: none;
+  background: none;
+  width: 99%;
+  max-width: 99%;
+  min-width: 99%;
+  appearance: none;
+  padding: 10px !important;
+  margin: 0 0 10px !important;
+  background: rgba(255, 255, 255, 0.8);
+  border: none;
+}
+
+#jcf select:focus, #jcf input:focus, #jcf textarea:focus, #jcf button:hover {
+  border: solid 1px #CFBEA5;
+  width: 100%;
+}
+
+/*End contact page styling*/
+
+/*# sourceMappingURL=form-style.css.map */

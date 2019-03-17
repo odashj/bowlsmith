@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="62px" viewBox="0 0 62 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>right-button</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Site" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop---Gallery-Selected" transform="translate(-850.000000, -449.000000)">
+            <g id="Group" transform="translate(60.000000, 148.000000)">
+                <g id="Next-Button" transform="translate(790.000000, 301.000000)">
+                    <g>
+                        <rect id="Rectangle-3" fill-opacity="0.5" fill="#FFFDFA" fill-rule="nonzero" x="0" y="0" width="62.37" height="62.37"></rect>
+                        <polygon id="Star-Copy" stroke="#CFBEA5" stroke-width="3.24" fill-rule="nonzero" points="25.92 46.98 41.31 31.59 25.92 16.2 41.31 31.59"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
