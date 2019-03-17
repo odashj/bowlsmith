@@ -9,9 +9,9 @@ include "nav.php";
 		<div class="twelve columns padding-top">
 			<div class="eight columns padding-bottom">
 				<h2 class="left-text darkBrown mobile-name">Bowlname</h2>
-				<img src="assets/bowl-large@2x.jpg" class="large slides" id="img1">
-				<img src="assets/bowl-large2@2x.jpg" class="large slides" id="img1">
-				<img src="assets/bowl-large3@2x.jpg" class="large slides" id="img1">
+				<img src="assets/bowl-large.jpg" class="large slides" id="img1">
+				<img src="assets/bowl-large2.jpg" class="large slides" id="img1">
+				<img src="assets/bowl-large3.jpg" class="large slides" id="img1">
 			</div>
 			<div class="arrows">
 				<div class="eight columns">
