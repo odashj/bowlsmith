@@ -1,9 +1,6 @@
 <!-- fader.php
  -->	
 
- <!-- $(document).ready(function(){
- 		$('.content').first().delay(100).animate({'opacity':'1'},600);
- 	});  -->
 
  <script type="text/javascript">
  

@@ -8,6 +8,7 @@ include "nav.php";
 	<div class="container content">
 		<div class="twelve columns padding-top">
 			<div class="eight columns padding-bottom">
+				<h2 class="left-text darkBrown mobile-name">Bowlname</h2>
 				<img src="assets/bowl-large@2x.jpg" class="large slides" id="img1">
 				<img src="assets/bowl-large2@2x.jpg" class="large slides" id="img1">
 				<img src="assets/bowl-large3@2x.jpg" class="large slides" id="img1">
@@ -18,14 +19,14 @@ include "nav.php";
 					<button class="right-arrow" onclick="plusDivs(+1)"><img src="assets/right-button.svg"></button>
 				</div>
 			</div>
-			<div class="four columns offset-by-eight">
+			<div class="four columns offset-by-eight bowl-text">
 				<div class="close-button">
 					<a href="gallery.php" class="fade">
-						<img src="assets/close-button.svg">
+						<img src="assets/close-button-gallery.svg">
 					</a>
 				</div>
 				<div class="decrease-padding">
-					<h2 class="left-text darkBrown">Bowlname</h2>
+					<h2 class="left-text darkBrown desktop-name">Bowlname</h2>
 					<h3 class="left-text darkBrown"><strong>Wood</strong><br>Walnut</h3>
 					<h3 class="left-text darkBrown"><strong>Scale</strong><br>
 						6" diameter<br>
@@ -40,9 +41,8 @@ include "nav.php";
 <?php
 include "footer.php";
 ?>
-
 <?php
-include "fader.php";
+include "scripts.php";
 ?>
 
 <script>

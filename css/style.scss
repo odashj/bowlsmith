@@ -95,6 +95,7 @@ h1 {
 	text-align: center;
 }
 
+
 h2 {
 	font-size: 28px;
 	line-height: 36px;
@@ -156,6 +157,7 @@ strong {
 
 
 .nav {
+	display: block;
 	position: fixed;
 	width: 100vw;
 	height: 90px;
@@ -208,6 +210,10 @@ img.nav-logo{
 	display: none;
 }
 
+#small-logo-mobile {
+	display: none;
+}
+
 
 /*End nav bar styles*/
 
@@ -243,6 +249,10 @@ img.hero-img {
 	padding-top: 15px;
 	padding-bottom: 15px;
 }
+.bio {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
 
 /*Gallery styling*/
 
@@ -254,6 +264,7 @@ img.hero-img {
 	position: relative;
 	width: 100%;
 	height: auto;
+	padding-bottom: 0;
 }
 
 .thumbnail-img {
@@ -301,7 +312,9 @@ width: 100%;
 img.large {
 	height: auto;
 }
-
+.bowl-text {
+		margin-top: -50px;
+	}
 .project-description {
 	border-top: 1px solid $darkTan;
 	padding-top: 1.5em;
@@ -341,6 +354,17 @@ img.close-button {
 #img1, #img2, #img3 {
 	position: absolute;
 	width: 65.3333333333%;
+	height: auto;
+	  margin: 0;
+  padding: 0; 
+}
+
+.left-arrow img {
+	width: 100%;
+	height: auto;
+}
+.right-arrow img {
+	width: 100%;
 	height: auto;
 }
 

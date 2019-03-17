@@ -148,6 +148,7 @@ strong {
 /*End typography*/
 /*Repeating nav bar*/
 .nav {
+  display: block;
   position: fixed;
   width: 100vw;
   height: 90px;
@@ -194,6 +195,10 @@ img.nav-logo {
   display: none;
 }
 
+#small-logo-mobile {
+  display: none;
+}
+
 /*End nav bar styles*/
 /*Repeating footer*/
 .footer {
@@ -225,6 +230,11 @@ img.hero-img {
   padding-bottom: 15px;
 }
 
+.bio {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
 /*Gallery styling*/
 .padding-grid {
   margin-top: 4%;
@@ -234,6 +244,7 @@ img.hero-img {
   position: relative;
   width: 100%;
   height: auto;
+  padding-bottom: 0;
 }
 
 .thumbnail-img {
@@ -281,6 +292,10 @@ img.large {
   height: auto;
 }
 
+.bowl-text {
+  margin-top: -50px;
+}
+
 .project-description {
   border-top: 1px solid #CFBEA5;
   padding-top: 1.5em;
@@ -316,6 +331,18 @@ img.large {
 #img1, #img2, #img3 {
   position: absolute;
   width: 65.3333333333%;
+  height: auto;
+  margin: 0;
+  padding: 0;
+}
+
+.left-arrow img {
+  width: 100%;
+  height: auto;
+}
+
+.right-arrow img {
+  width: 100%;
   height: auto;
 }
 

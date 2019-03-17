@@ -23,3 +23,33 @@
 		</div>
 	</div>
 </div>
+<div class="mobile-nav">
+	<div class="container">
+		<div class="logo" id="large-logo-mobile">
+			<a href="index.php" class="index fade"><img src="assets/logo-large_desktop.png" class="logo-lg"></a>
+		</div>
+		<div class="logo" id="small-logo-mobile">
+			<a href="index.php" class="index fade content"><img src="assets/logo-small.png" class="logo-sm"></a>
+		</div>
+		<div class="menu" id="showMenu">
+			<img src="assets/mobile-menu.svg">
+		</div>
+	</div>
+</div>
+<div class="menu-open" style="display: none;">
+	<div class="close" id="hideMenu">
+		<img src="assets/close-button.svg">
+	</div>
+	<div class="container">
+		<div class="mobile-nav-items padding-top padding-bottom">
+			<h1 class="padding-top padding-bottom offWhite mobile-nav-link <?php if ($current_page=="home") {echo "current";} ?>"><a href="index.php" class="offWhite fade">Home</a></h1>
+			<h1 class="padding-bottom offWhite mobile-nav-link <?php if ($current_page=="profile") {echo "current";} ?>"><a href="profile.php" class="offWhite fade">Profile</a></h1>
+			<h1 class="padding-bottom offWhite mobile-nav-link <?php if ($current_page=="gallery") {echo "current";} ?>"><a href="gallery.php" class="offWhite fade">Gallery</a></h1>
+			<h1 class="padding-bottom offWhite mobile-nav-link <?php if ($current_page=="events") {echo "current";} ?>"><a href="events.php" class="offWhite fade">Events</a></h1>
+			<h1 class="mobile-nav-link <?php if ($current_page=="contact") {echo "current";} ?>"><a href="contact.php" class="offWhite fade">Contact</a></h1>
+		</div>
+	</div>
+</div>
+
+
+

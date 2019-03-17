@@ -135,10 +135,7 @@ include "nav.php";
 include "footer.php";
 ?>
 <?php
-include "nav-scroller.php";
-?>
-<?php
-include "fader.php";
+include "scripts.php";
 ?>
 
 <script type="text/javascript" src="js/jquery-1.3.2.js"></script>
