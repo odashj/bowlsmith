@@ -11,11 +11,11 @@ include "nav.php";
 					<div class="thumbnail">
 						<div class="thumbnail-parent">
 							<div class="thumbnail-text">
-								<h2 class="center-text offWhite">Bowlname</h2>
-								<h3 class="center-text offWhite decrease-padding"><strong>Wood</strong></h3>
+								<h2 class="center-text offWhite">Walnut</h2>
+								<h3 class="center-text offWhite decrease-padding"><strong>Laminated Bowl</strong></h3>
 							</div>
 						</div>
-						<img src="assets/bowl-thumbnail1.jpg" class="thumbnail-img">
+						<img src="assets/thumbnails/walnut_02.jpg" class="thumbnail-img">
 					</div>
 				</a>
 			</div>
@@ -24,11 +24,11 @@ include "nav.php";
 					<div class="thumbnail">
 						<div class="thumbnail-parent">
 							<div class="thumbnail-text">
-								<h2 class="center-text offWhite">Bowlname</h2>
-								<h3 class="center-text offWhite decrease-padding"><strong>Wood</strong></h3>
+								<h2 class="center-text offWhite">Alder</h2>
+								<h3 class="center-text offWhite decrease-padding"><strong>Laminated Bowl</strong></h3>
 							</div>
 						</div>
-						<img src="assets/bowl-thumbnail1.jpg" class="thumbnail-img">
+						<img src="assets/thumbnails/alder_01.jpg" class="thumbnail-img">
 					</div>
 				</a>
 			</div>
@@ -37,11 +37,11 @@ include "nav.php";
 					<div class="thumbnail">
 						<div class="thumbnail-parent">
 							<div class="thumbnail-text">
-								<h2 class="center-text offWhite">Bowlname</h2>
-								<h3 class="center-text offWhite decrease-padding"><strong>Wood</strong></h3>
+								<h2 class="center-text offWhite">Mahogany and Cherry</h2>
+								<h3 class="center-text offWhite decrease-padding"><strong>Laminated Bowl</strong></h3>
 							</div>
 						</div>
-						<img src="assets/bowl-thumbnail1.jpg" class="thumbnail-img">
+						<img src="assets/thumbnails/mahogany_cherry_01.jpg" class="thumbnail-img">
 					</div>
 				</a>
 			</div>
@@ -52,11 +52,11 @@ include "nav.php";
 					<div class="thumbnail">
 						<div class="thumbnail-parent">
 							<div class="thumbnail-text">
-								<h2 class="center-text offWhite">Bowlname</h2>
-								<h3 class="center-text offWhite decrease-padding"><strong>Wood</strong></h3>
+								<h2 class="center-text offWhite">Cherry</h2>
+								<h3 class="center-text offWhite decrease-padding"><strong>Laminated Bowl</strong></h3>
 							</div>
 						</div>
-						<img src="assets/bowl-thumbnail1.jpg" class="thumbnail-img">
+						<img src="assets/thumbnails/cherry_01.jpg" class="thumbnail-img">
 					</div>
 				</a>
 			</div>
@@ -65,11 +65,11 @@ include "nav.php";
 					<div class="thumbnail">
 						<div class="thumbnail-parent">
 							<div class="thumbnail-text">
-								<h2 class="center-text offWhite">Bowlname</h2>
-								<h3 class="center-text offWhite decrease-padding"><strong>Wood</strong></h3>
+								<h2 class="center-text offWhite">White Oak</h2>
+								<h3 class="center-text offWhite decrease-padding"><strong>Laminated Bowl</strong></h3>
 							</div>
 						</div>
-						<img src="assets/bowl-thumbnail1.jpg" class="thumbnail-img">
+						<img src="assets/thumbnails/white_oak_01.jpg" class="thumbnail-img">
 					</div>
 				</a>
 			</div>
@@ -78,11 +78,11 @@ include "nav.php";
 					<div class="thumbnail">
 						<div class="thumbnail-parent">
 							<div class="thumbnail-text">
-								<h2 class="center-text offWhite">Bowlname</h2>
-								<h3 class="center-text offWhite decrease-padding"><strong>Wood</strong></h3>
+								<h2 class="center-text offWhite">Walnut</h2>
+								<h3 class="center-text offWhite decrease-padding"><strong>Turned Bowl</strong></h3>
 							</div>
 						</div>
-						<img src="assets/bowl-thumbnail1.jpg" class="thumbnail-img">
+						<img src="assets/thumbnails/walnut_05.jpg" class="thumbnail-img">
 					</div>
 				</a>
 			</div>
@@ -93,11 +93,11 @@ include "nav.php";
 					<div class="thumbnail">
 						<div class="thumbnail-parent">
 							<div class="thumbnail-text">
-								<h2 class="center-text offWhite">Bowlname</h2>
-								<h3 class="center-text offWhite decrease-padding"><strong>Wood</strong></h3>
+								<h2 class="center-text offWhite">Maple</h2>
+								<h3 class="center-text offWhite decrease-padding"><strong>Laminated Bowl</strong></h3>
 							</div>
 						</div>
-						<img src="assets/bowl-thumbnail1.jpg" class="thumbnail-img">
+						<img src="assets/thumbnails/Maple_01.jpg" class="thumbnail-img">
 					</div>
 				</a>
 			</div>
@@ -106,11 +106,11 @@ include "nav.php";
 					<div class="thumbnail">
 						<div class="thumbnail-parent">
 							<div class="thumbnail-text">
-								<h2 class="center-text offWhite">Bowlname</h2>
-								<h3 class="center-text offWhite decrease-padding"><strong>Wood</strong></h3>
+								<h2 class="center-text offWhite">White Oak</h2>
+								<h3 class="center-text offWhite decrease-padding"><strong>Turned Bowl</strong></h3>
 							</div>
 						</div>
-						<img src="assets/bowl-thumbnail1.jpg" class="thumbnail-img">
+						<img src="assets/thumbnails/white-oak_02.jpg" class="thumbnail-img">
 					</div>
 				</a>
 			</div>
@@ -119,11 +119,93 @@ include "nav.php";
 					<div class="thumbnail">
 						<div class="thumbnail-parent">
 							<div class="thumbnail-text">
-								<h2 class="center-text offWhite">Bowlname</h2>
-								<h3 class="center-text offWhite decrease-padding"><strong>Wood</strong></h3>
+								<h2 class="center-text offWhite">Walnut</h2>
+								<h3 class="center-text offWhite decrease-padding"><strong>Laminated Bowl</strong></h3>
 							</div>
 						</div>
-						<img src="assets/bowl-thumbnail1.jpg" class="thumbnail-img">
+						<img src="assets/thumbnails/Walnut_04.jpg" class="thumbnail-img">
+					</div>
+				</a>
+			</div>
+		</div>
+		<div class="twelve columns padding-bottom padding-grid">
+			<div class="four columns">
+				<a href="project.php" class="fade">
+					<div class="thumbnail">
+						<div class="thumbnail-parent">
+							<div class="thumbnail-text">
+								<h2 class="center-text offWhite">Maple and Walnut</h2>
+								<h3 class="center-text offWhite decrease-padding"><strong>Laminated Bowl</strong></h3>
+							</div>
+						</div>
+						<img src="assets/thumbnails/maple_walnut_01.jpg" class="thumbnail-img">
+					</div>
+				</a>
+			</div>
+			<div class="four columns">
+				<a href="project.php" class="fade">
+					<div class="thumbnail">
+						<div class="thumbnail-parent">
+							<div class="thumbnail-text">
+								<h2 class="center-text offWhite">Walnut</h2>
+								<h3 class="center-text offWhite decrease-padding"><strong>Laminated Bowl</strong></h3>
+							</div>
+						</div>
+						<img src="assets/thumbnails/walnut_01.jpg" class="thumbnail-img">
+					</div>
+				</a>
+			</div>
+			<div class="four columns">
+				<a href="project.php" class="fade">
+					<div class="thumbnail">
+						<div class="thumbnail-parent">
+							<div class="thumbnail-text">
+								<h2 class="center-text offWhite">Red Oak</h2>
+								<h3 class="center-text offWhite decrease-padding"><strong>Laminated Bowl</strong></h3>
+							</div>
+						</div>
+						<img src="assets/thumbnails/red_oak.jpg" class="thumbnail-img">
+					</div>
+				</a>
+			</div>
+		</div>
+		<div class="twelve columns padding-bottom padding-grid">
+			<div class="four columns">
+				<a href="project.php" class="fade">
+					<div class="thumbnail">
+						<div class="thumbnail-parent">
+							<div class="thumbnail-text">
+								<h2 class="center-text offWhite">Walnut</h2>
+								<h3 class="center-text offWhite decrease-padding"><strong>Turned Bowl</strong></h3>
+							</div>
+						</div>
+						<img src="assets/thumbnails/walnut_03.jpg" class="thumbnail-img">
+					</div>
+				</a>
+			</div>
+			<div class="four columns">
+				<a href="project.php" class="fade">
+					<div class="thumbnail">
+						<div class="thumbnail-parent">
+							<div class="thumbnail-text">
+								<h2 class="center-text offWhite">Mahogany</h2>
+								<h3 class="center-text offWhite decrease-padding"><strong>Laminated Bowl</strong></h3>
+							</div>
+						</div>
+						<img src="assets/thumbnails/Mahogany_01.jpg" class="thumbnail-img">
+					</div>
+				</a>
+			</div>
+			<div class="four columns">
+				<a href="project.php" class="fade">
+					<div class="thumbnail">
+						<div class="thumbnail-parent">
+							<div class="thumbnail-text">
+								<h2 class="center-text offWhite">Maple</h2>
+								<h3 class="center-text offWhite decrease-padding"><strong>Laminated Bowl</strong></h3>
+							</div>
+						</div>
+						<img src="assets/thumbnails/maple_02.jpg" class="thumbnail-img">
 					</div>
 				</a>
 			</div>
