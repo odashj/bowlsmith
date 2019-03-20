@@ -7,7 +7,7 @@ include "nav.php";
 	<div class="container content">
 		<div class="twelve columns padding-top">
 			<div class="four columns">
-				<a href="project.php" class="fade">
+				<a href="walnut-2.php" class="fade">
 					<div class="thumbnail">
 						<div class="thumbnail-parent">
 							<div class="thumbnail-text">
@@ -20,7 +20,7 @@ include "nav.php";
 				</a>
 			</div>
 			<div class="four columns">
-				<a href="project.php" class="fade">
+				<a href="alder-1.php" class="fade">
 					<div class="thumbnail">
 						<div class="thumbnail-parent">
 							<div class="thumbnail-text">
@@ -33,7 +33,7 @@ include "nav.php";
 				</a>
 			</div>
 			<div class="four columns">
-				<a href="project.php" class="fade">
+				<a href="mahogany-cherry-1.php" class="fade">
 					<div class="thumbnail">
 						<div class="thumbnail-parent">
 							<div class="thumbnail-text">
@@ -48,7 +48,7 @@ include "nav.php";
 		</div>
 		<div class="twelve columns padding-grid">
 			<div class="four columns">
-				<a href="project.php" class="fade">
+				<a href="cherry-1.php" class="fade">
 					<div class="thumbnail">
 						<div class="thumbnail-parent">
 							<div class="thumbnail-text">
@@ -61,7 +61,7 @@ include "nav.php";
 				</a>
 			</div>
 			<div class="four columns">
-				<a href="project.php" class="fade">
+				<a href="white-oak-1.php" class="fade">
 					<div class="thumbnail">
 						<div class="thumbnail-parent">
 							<div class="thumbnail-text">
@@ -74,7 +74,7 @@ include "nav.php";
 				</a>
 			</div>
 			<div class="four columns">
-				<a href="project.php">
+				<a href="walnut-5.php">
 					<div class="thumbnail">
 						<div class="thumbnail-parent">
 							<div class="thumbnail-text">
@@ -87,9 +87,9 @@ include "nav.php";
 				</a>
 			</div>
 		</div>
-		<div class="twelve columns padding-bottom padding-grid">
+		<div class="twelve columns padding-grid">
 			<div class="four columns">
-				<a href="project.php" class="fade">
+				<a href="maple-1.php" class="fade">
 					<div class="thumbnail">
 						<div class="thumbnail-parent">
 							<div class="thumbnail-text">
@@ -102,7 +102,7 @@ include "nav.php";
 				</a>
 			</div>
 			<div class="four columns">
-				<a href="project.php" class="fade">
+				<a href="white-oak-2.php" class="fade">
 					<div class="thumbnail">
 						<div class="thumbnail-parent">
 							<div class="thumbnail-text">
@@ -115,7 +115,7 @@ include "nav.php";
 				</a>
 			</div>
 			<div class="four columns">
-				<a href="project.php" class="fade">
+				<a href="walnut-4.php" class="fade">
 					<div class="thumbnail">
 						<div class="thumbnail-parent">
 							<div class="thumbnail-text">
@@ -128,9 +128,9 @@ include "nav.php";
 				</a>
 			</div>
 		</div>
-		<div class="twelve columns padding-bottom padding-grid">
+		<div class="twelve columns padding-grid">
 			<div class="four columns">
-				<a href="project.php" class="fade">
+				<a href="maple-walnut-1.php" class="fade">
 					<div class="thumbnail">
 						<div class="thumbnail-parent">
 							<div class="thumbnail-text">
@@ -143,7 +143,7 @@ include "nav.php";
 				</a>
 			</div>
 			<div class="four columns">
-				<a href="project.php" class="fade">
+				<a href="walnut-1.php" class="fade">
 					<div class="thumbnail">
 						<div class="thumbnail-parent">
 							<div class="thumbnail-text">
@@ -156,7 +156,7 @@ include "nav.php";
 				</a>
 			</div>
 			<div class="four columns">
-				<a href="project.php" class="fade">
+				<a href="red-oak-1.php" class="fade">
 					<div class="thumbnail">
 						<div class="thumbnail-parent">
 							<div class="thumbnail-text">
@@ -171,7 +171,7 @@ include "nav.php";
 		</div>
 		<div class="twelve columns padding-bottom padding-grid">
 			<div class="four columns">
-				<a href="project.php" class="fade">
+				<a href="walnut-3.php" class="fade">
 					<div class="thumbnail">
 						<div class="thumbnail-parent">
 							<div class="thumbnail-text">
@@ -184,7 +184,7 @@ include "nav.php";
 				</a>
 			</div>
 			<div class="four columns">
-				<a href="project.php" class="fade">
+				<a href="mahogany-1.php" class="fade">
 					<div class="thumbnail">
 						<div class="thumbnail-parent">
 							<div class="thumbnail-text">
@@ -197,7 +197,7 @@ include "nav.php";
 				</a>
 			</div>
 			<div class="four columns">
-				<a href="project.php" class="fade">
+				<a href="maple-2.php" class="fade">
 					<div class="thumbnail">
 						<div class="thumbnail-parent">
 							<div class="thumbnail-text">

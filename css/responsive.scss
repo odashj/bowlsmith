@@ -68,6 +68,7 @@
 
 	.project-description {
 	min-height: 10vh;
+	padding-bottom: 0px;
 }
 
 }
@@ -123,6 +124,10 @@
 		width: auto;
 		height: 40px;
 	}
+
+	.project-description {
+	padding-bottom: 0px;
+}
 
 	}
 
