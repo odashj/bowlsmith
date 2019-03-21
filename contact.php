@@ -7,11 +7,11 @@ include "nav.php";
 ?>
 <div class="wrapper">
 	<div class="container content">
-		<div class="five columns offset-by-one padding-top">
-			<h2 class="darkBrown">Want to reach out?</h2>
-			<p>For orders and general inquiries, please contact Jesse Smith through the form or directly: <a href="mailto:jesse@bowlsmith.com">jesse@bowlsmith.com</a></p>
+		<div class="six columns offset-by-three padding-top">
+			<h2 class="darkBrown center-text">Want to reach out?</h2>
+			<p class="center-text">For orders and general inquiries, please contact Jesse Smith through the form or directly: <a href="mailto:jesse@bowlsmith.com">jesse@bowlsmith.com</a></p>
 		</div>
-		<div class="five columns padding-top padding-bottom">  
+		<!-- <div class="five columns padding-top padding-bottom">  
 			<div id="jcf">
 				<form action="" method="post" id="contact_form">
 					<input class="contact_name" type="text" name="name" id="name" placeholder="Name" />
@@ -21,7 +21,7 @@ include "nav.php";
 					<button class="submit" type="submit" id="send_message">Send</button>
 				</form>
 			</div>
-		</div>
+		</div> -->
 	</div>
 </div>
 <?php
