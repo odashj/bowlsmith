@@ -1,7 +1,7 @@
 <div class="nav">
 	<div class="container">
 		<div class="two columns">
-			<h3 class="nav-link <?php if ($current_page=="profile") {echo "current";} ?>"><a href="profile.php" class="fade">Profile</a></h3>
+			<h3 class="nav-link <?php if ($current_page=="about") {echo "current";} ?>"><a href="about.php" class="fade">About</a></h3>
 		</div>
 		<div class="two columns">
 			<h3 class="nav-link <?php if ($current_page=="gallery") {echo "current";} ?>"><a href="gallery.php">Gallery</a></h3>
