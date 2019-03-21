@@ -22,6 +22,10 @@ li {
   left: 0;
 }
 
+a {
+  cursor: pointer;
+}
+
 button, input[type=submit], input[type=reset] {
   background: none;
   color: inherit;
@@ -42,10 +46,6 @@ button, input[type=submit], input[type=reset] {
 
 .padding-top {
   padding-top: 50px;
-}
-
-.padding-bottom {
-  padding-bottom: 50px;
 }
 
 .decrease-padding {
@@ -301,6 +301,7 @@ img.large {
   padding-top: 1.5em;
   margin-top: 1.5em;
   min-height: 40vh;
+  padding-bottom: 50px;
 }
 
 .close-button {

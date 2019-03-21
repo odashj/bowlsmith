@@ -67,6 +67,7 @@
 
   .project-description {
     min-height: 10vh;
+    padding-bottom: 0px;
   }
 }
 @media only screen and (max-width: 400px) {
@@ -120,6 +121,10 @@
   .right-arrow img {
     width: auto;
     height: 40px;
+  }
+
+  .project-description {
+    padding-bottom: 0px;
   }
 }
 /*mobile*/

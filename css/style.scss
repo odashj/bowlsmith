@@ -21,6 +21,10 @@ ul {
 li {padding:0;
 left: 0;}
 
+a {
+	cursor: pointer;
+}
+
 button, input[type="submit"], input[type="reset"] {
 	background: none;
 	color: inherit;
