@@ -1,2 +1,0 @@
-# bowlsmith
-Website for Bowlsmith
