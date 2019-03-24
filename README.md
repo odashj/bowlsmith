@@ -1,2 +1,2 @@
-# bowlsmith
-Website for Bowlsmith
+# Bowlsmith / Working Wood
+Bowlsmith.com is currently being updated. Please try again later, or contact Jesse directly at jesse@bowlsmith.com.
