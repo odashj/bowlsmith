@@ -43,7 +43,7 @@
 	<div class="container">
 		<div class="mobile-nav-items padding-top padding-bottom">
 			<h1 class="padding-top padding-bottom offWhite mobile-nav-link <?php if ($current_page=="home") {echo "current";} ?>"><a href="index.php" class="offWhite fade">Home</a></h1>
-			<h1 class="padding-bottom offWhite mobile-nav-link <?php if ($current_page=="profile") {echo "current";} ?>"><a href="profile.php" class="offWhite fade">Profile</a></h1>
+			<h1 class="padding-bottom offWhite mobile-nav-link <?php if ($current_page=="about") {echo "current";} ?>"><a href="about.php" class="offWhite fade">About</a></h1>
 			<h1 class="padding-bottom offWhite mobile-nav-link <?php if ($current_page=="gallery") {echo "current";} ?>"><a href="gallery.php" class="offWhite fade">Gallery</a></h1>
 			<h1 class="padding-bottom offWhite mobile-nav-link <?php if ($current_page=="events") {echo "current";} ?>"><a href="events.php" class="offWhite fade">Events</a></h1>
 			<h1 class="mobile-nav-link <?php if ($current_page=="contact") {echo "current";} ?>"><a href="contact.php" class="offWhite fade">Contact</a></h1>

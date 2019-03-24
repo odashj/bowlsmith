@@ -9,7 +9,7 @@ include "nav.php";
 	<div class="container content">
 		<div class="six columns offset-by-three padding-top">
 			<h2 class="darkBrown center-text">Want to reach out?</h2>
-			<p class="center-text">For orders and general inquiries, please contact Jesse Smith through the form or directly: <a href="mailto:jesse@bowlsmith.com">jesse@bowlsmith.com</a></p>
+			<p class="center-text">For orders and general inquiries, please contact Jesse Smith: <a href="mailto:jesse@bowlsmith.com">jesse@bowlsmith.com</a></p>
 		</div>
 		<!-- <div class="five columns padding-top padding-bottom">  
 			<div id="jcf">
