@@ -7,7 +7,7 @@ include "nav.php";
 ?>
 <div class="wrapper">
 	<div class="container content">
-		<div class="six columns offset-by-three padding-top">
+		<div class="six columns offset-by-three padding-top padding-bottom">
 			<h2 class="darkBrown center-text">Want to reach out?</h2>
 			<p class="center-text">For orders and general inquiries, please contact Jesse Smith: <a href="mailto:jesse@bowlsmith.com">jesse@bowlsmith.com</a></p>
 		</div>
