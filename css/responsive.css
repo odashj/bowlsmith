@@ -180,6 +180,8 @@
     background-color: #641F01;
     position: fixed;
     z-index: 1000;
+    padding-top: 9vh;
+    overflow-y: scroll;
   }
 
   .close {
