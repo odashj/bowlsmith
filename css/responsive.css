@@ -246,6 +246,10 @@
     margin-top: calc(33% - 50px);
   }
 
+  .padding-grid {
+  margin-top: 0%;
+}
+
   /*Footer*/
   .footer {
     padding-top: 15px;
