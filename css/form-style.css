@@ -9,40 +9,10 @@
   max-width: 100%;
 }
 
-#jcf .error {
-  background-color: rgba(255, 184, 185, 0.8) !important;
-  border: solid 1px #D8000C !important;
-}
-
-#jcf .error, #jcf .error::placeholder {
-  color: #D8000C !important;
-}
-
-#jcf .success {
-  background-color: rgba(193, 255, 198, 0.8) !important;
-  border: solid 1px #044406 !important;
-}
-
-#jcf .success, #jcf .success::placeholder {
-  color: #044406;
-}
-
-#jcf .msg {
-  display: none;
-  padding: 10px;
-  margin-bottom: 5px !important;
-  width: 99%;
-  border-radius: 3px;
-}
-
-#jcf .contact_message {
-  height: 200px;
-}
-
-#jcf #send_message {
+#jcf #send-button {
   text-transform: uppercase;
   cursor: pointer;
-  width: 100%;
+  width: 50% !important;
   border: none;
   color: #fff;
   margin: 0;
@@ -55,7 +25,7 @@
   transition: background-color 0.3s ease-in-out;
 }
 
-#jcf #send_message:hover {
+#jcf #send-button:hover {
   background-color: #641F01;
 }
 
