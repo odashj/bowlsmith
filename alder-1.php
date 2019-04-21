@@ -31,6 +31,7 @@ include "nav.php";
 					<h3 class="left-text darkBrown"><strong>Scale</strong><br>
 						6" diameter<br>
 					3 1/2" tall</h3>
+					<h3 class="left-text darkBrown"><strong>Availability</strong><br>Available</h3>
 					<p class="project-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 				</div>
 			</div>

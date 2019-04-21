@@ -36,6 +36,9 @@
     width: 100%;
     margin-left: 0;
     padding: 0;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
   }
 
   .arrows {
@@ -94,6 +97,9 @@
     width: 100%;
     margin-left: -20px;
     padding: 0;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
   }
 
   .arrows {
@@ -180,8 +186,6 @@
     background-color: #641F01;
     position: fixed;
     z-index: 1000;
-    padding-top: 9vh;
-    overflow-y: scroll;
   }
 
   .close {
@@ -245,10 +249,6 @@
   .thumbnail-text {
     margin-top: calc(33% - 50px);
   }
-
-  .padding-grid {
-  margin-top: 0%;
-}
 
   /*Footer*/
   .footer {
