@@ -27,11 +27,12 @@ include "nav.php";
 				</div>
 				<div class="decrease-padding padding-bottom">
 					<h2 class="left-text darkBrown desktop-name">Walnut</h2>
-					<h3 class="left-text darkBrown"><strong>Technique</strong><br>Wood Turning</h3>
-					<h3 class="left-text darkBrown"><strong>Scale</strong><br>
-						6" diameter<br>
-					3 1/2" tall</h3>
-					<p class="project-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+					<h3 class="left-text darkBrown"><strong>Technique</strong><br>Solid Wood</h3>
+					<h3 class="left-text darkBrown"><strong>Approximate Scale</strong><br>
+						3.3" width<br>
+					3" height</h3>
+					<h3 class="left-text darkBrown"><strong>Availability</strong><br>Sold</h3>
+					<p class="project-description"></p>
 				</div>
 			</div>
 		</div>
