@@ -272,7 +272,7 @@ img.thumbnail-img {
 .thumbnail-parent {
   position: absolute;
   width: 100%;
-  height: calc(100% - 5px);
+  height: calc(100% - 4px);
   z-index: 99;
   background-color: rgba(100, 31, 1, 0.6);
   opacity: 0;
