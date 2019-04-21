@@ -69,7 +69,7 @@
   }
 
   .project-description {
-    min-height: 10vh;
+    min-height: 0;
     padding-bottom: 0px;
   }
 }
@@ -131,6 +131,7 @@
 
   .project-description {
     padding-bottom: 0px;
+    min-height: 0;
   }
 }
 /*mobile*/
